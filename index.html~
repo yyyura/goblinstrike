@@ -34,11 +34,11 @@
             <ul class="navbar-nav nav">
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Buildings</a></li>
-		<li><a href="#">Army</a></li>
+				<li><a href="#">Army</a></li>
                 <li><a href="#">Magic</a></li>
-		<li><a href="#">Thievery</a></li>
-		<li><a href="#">Fourms</a></li>
-		 <li><a href="#"></a></li>
+				<li><a href="#">Thievery</a></li>
+				<li><a href="#">Fourms</a></li>
+				 <li><a href="#"></a></li>
             </ul>
 			<ul class="nav navbar-nav navbar-right">
       <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
@@ -59,7 +59,7 @@
     
 </header>
 <ul>
-Welcom To Goblin Strike a fantasy webgame so I can learn the play framework . This will be a one player game. 
+
 </body>
 <!-- Latest compiled JavaScript -->
 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
